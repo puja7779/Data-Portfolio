@@ -24,6 +24,7 @@ File: MEDIA.pbit
 Tool: Power BI (Template File)
 Description:
 A ready-to-use Power BI template tailored for digital media and marketing analysis. It includes visuals for campaign reach, engagement metrics, spend by platform (e.g., Facebook, Instagram), and ROI tracking. Marketing teams can input their own data to instantly generate performance reports.
+
 ---
 
 ## 🧠 Skills & Tools
