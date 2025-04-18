@@ -7,26 +7,23 @@ This repository showcases real-world Power BI dashboards created using business 
 
 ## 🔹 Projects
 
-### 1. 🏗️ Construction Progress Dashboard
-- **File:** `Construction Progress Dashboard.pbix`
-- **Tool:** Power BI  
-- **Description:** Tracks project milestones, progress percentage, and delay analysis. Ideal for construction project stakeholders for quick performance overviews.
+👥 1. Employee Hiring and History Dashboard
+File: Employee Hiring and History.pbix
+Tool: Power BI
+Description:
+A detailed HR analytics dashboard focused on employee lifecycle data. It showcases hiring trends over time, department-wise headcount, attrition rates, and tenure distribution. Useful for HR managers to track workforce growth, diversity metrics, and identify areas of improvement in hiring strategies.
 
-### 2. 💰 Bank Cost Report
-- **File:** `Bank Cost Report.pbix`
-- **Tool:** Power BI  
-- **Description:** Monthly cost breakdown and variance analysis for a retail banking environment. Designed for top-level financial reporting.
+💻 2. IT Spend Analysis Dashboard
+File: IT Spend Analysis.pbix
+Tool: Power BI
+Description:
+This dashboard analyzes IT budget utilization across hardware, software, and services. It helps identify overspending or underutilized resources, and breaks down costs by department, vendor, and category. It’s designed to support CIOs and IT managers in strategic budgeting and procurement decisions.
 
-### 3. 📈 Monthly Sales Report
-- **File:** `Monthly Sales Report.pbix`
-- **Tool:** Power BI  
-- **Description:** Visualizes sales trends, target vs actuals, and representative performance. Used for high-level sales strategy meetings.
-
-### 4. 📊 Weekly Sales Report
-- **File:** `Weekly Sales Report.pbix`
-- **Tool:** Power BI  
-- **Description:** Provides week-wise sales distribution, insights into short-term trends, and key performance indicators.
-
+📰 3. Media Dashboard Template
+File: MEDIA.pbit
+Tool: Power BI (Template File)
+Description:
+A ready-to-use Power BI template tailored for digital media and marketing analysis. It includes visuals for campaign reach, engagement metrics, spend by platform (e.g., Facebook, Instagram), and ROI tracking. Marketing teams can input their own data to instantly generate performance reports.
 ---
 
 ## 🧠 Skills & Tools
@@ -38,4 +35,4 @@ This repository showcases real-world Power BI dashboards created using business 
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn**: [https://www.linkedin.com/in/pooja-vora](https://www.linkedin.com/in/pooja-vora)
+- **LinkedIn**: (https://www.linkedin.com/in/puja-s-a94997345)
